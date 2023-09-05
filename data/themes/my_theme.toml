@@ -13,9 +13,9 @@ name = "my_theme"
 
   # Home sections
   home_section_odd = "#FFFFFF"
-  home_section_even = "#F0F5FF"
+  home_section_even = "#F6F9FF"
   
-  link = "#1C2945"
+  link = "#2D4B8C"
   link_hover = "#486DBD"
 
 [dark]
