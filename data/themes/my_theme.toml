@@ -9,7 +9,7 @@ name = "my_theme"
   menu_primary = "#FFFFFF"
   menu_text = "#1C2945"
   menu_text_active = "#486DBD"
-  menu_title = "#C77C2B"
+  menu_title = "#F8954D"
 
   # Home sections
   home_section_odd = "#FFFFFF"
