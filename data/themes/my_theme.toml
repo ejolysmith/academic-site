@@ -15,8 +15,8 @@ name = "my_theme"
   home_section_odd = "#FFFFFF"
   home_section_even = "#F0F5FF"
   
-  link = "#ad5d07"
-  link_hover = "#264A33"
+  link = "#1C2945"
+  link_hover = "#486DBD"
 
 [dark]
   # Primary
