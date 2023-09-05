@@ -33,4 +33,12 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+
 ---
