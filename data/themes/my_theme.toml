@@ -3,7 +3,7 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#FFFFFF"
+  primary = "#1C2945"
 
   # Menu
   menu_primary = "#FFFFFF"
