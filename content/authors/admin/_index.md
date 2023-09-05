@@ -1,8 +1,7 @@
 ---
 title: Euan Joly-Smith
-role: PhD Candidate at The University of Toronto
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Candidate
+bio: Research interests include
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -13,10 +12,10 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ca/citations?user=tMzkFNsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ejolysmith
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -29,8 +28,8 @@ social:
     icon_pack: ai
     icon: twitter
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Toronto
+    url: https://www.utoronto.ca
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -48,8 +47,5 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: Euan.joly.smith@utoronto.ca
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
