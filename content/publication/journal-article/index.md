@@ -33,7 +33,7 @@ links:
 url_pdf: uploads/pre_2021.pdf
 publication_types:
 image:
-  placement: 1
+  placement: 2
   caption: ""
   focal_point: ""
   preview_only: false
