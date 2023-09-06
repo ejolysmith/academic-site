@@ -1,12 +1,11 @@
 ---
-title: Inferring gene regulation dynamics from static snapshots of gene
-  expression variability
 authors:
   - admin
   - Zitong Jerry Wang
   - Andreas Hilfinger
 author_notes: []
-publication_short: ""
+publication: Physical Review E
+publication_short: PRE
 abstract: Inferring functional relationships within complex networks from static
   snapshots of a subset of variables is a ubiquitous problem in science. For
   example, a key challenge of systems biology is to translate cellular
@@ -24,33 +23,35 @@ abstract: Inferring functional relationships within complex networks from static
   constraints might prove useful in other areas of science in which static
   correlation snapshots are used to infer causal connections between dynamically
   interacting components
-tags: []
-projects: []
 slides: ""
+url_pdf: uploads/pre_2021.pdf
+publication_types:
+  - "0"
+summary: ""
+url_dataset: ""
+url_project: ""
+profile: false
+url_source: ""
+url_video: ""
+featured: false
+date: 2021-10-13T14:51:00.000Z
+url_slides: ""
+title: Inferring gene regulation dynamics from static snapshots of gene
+  expression variability
+tags: []
 links:
   - name: Link
     url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.044406
-url_pdf: uploads/pre_2021.pdf
-publication_types:
+projects: []
 image:
   placement: 2
   caption: ""
   focal_point: ""
   preview_only: false
   filename: featured.jpg
-summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
-publication: Physical Review E
-featured: false
-date: 2021-10-13T14:51:00.000Z
-url_slides: ""
 publishDate: 2021-10-13T14:51:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
-profile: false
 share: false
 ---
