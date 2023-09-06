@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Exploiting fluctuations in gene expression to detect causal interactions between genes"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-05-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-05-04"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Characterizing and manipulating cellular behaviour requires a mechanistic understanding of the causal in- teractions between cellular components. We present an approach that can detect causal interactions between genes without the need to perturb the physiological state of cells. This approach exploits naturally occurring cell-to-cell variability which is experimentally accessible from static population snapshots of genetically iden- tical cells without the need to follow cells over time. Our main contribution is a simple mathematical relation that constrains the propagation of gene expression noise through biochemical reaction networks. This relation allows us to rigorously interpret fluctuation data even when only a small part of a complex gene regulatory process can be observed. This relation can be exploited to detect causal interactions by synthetically engineer- ing a passive reporter of gene expression, akin to the established “dual reporter assay”. While the focus of our contribution is theoretical, we also present an experimental proof-of-principle to illustrate the approach. Our data from synthetic gene regulatory networks in E. coli are not unequivocal but suggest that the method could prove useful in practice to identify causal interactions between genes from non-genetic cell-to-cell variability.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,15 +29,15 @@ featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
+  url: [http://example.org](https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html)
+url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html)
+url_code: ''
+# url_dataset: '#'
+# url_poster: '#'
 url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
