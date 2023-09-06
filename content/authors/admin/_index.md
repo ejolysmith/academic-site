@@ -1,11 +1,6 @@
 ---
-title: Euan Joly-Smith
-role: PhD Candidate
+avatar_filename: img_0417.png
 bio: Research interests include
-# interests:
-#  - Systems Biology
-#  - Physics of Living Systems
-#  - Synthetic
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,22 +25,13 @@ social:
 organizations:
   - name: University of Toronto
     url: https://www.utoronto.ca
-# education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
-#    - course: MEng in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2009
-#    - course: BSc in Artificial Intelligence
-#      institution: Massachusetts Institute of Technology
-#      year: 2008
 superuser: true
 status:
   icon: ☕️
 last_name: Joly-Smith
+role: PhD Candidate
 highlight_name: true
+title: Euan Joly-Smith
 first_name: Euan
 email: Euan.joly.smith@utoronto.ca
 ---
