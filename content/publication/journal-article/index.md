@@ -34,6 +34,7 @@ url_pdf: uploads/pre_2021.pdf
 publication_types:
 image:
   caption: ""
+  width: 800pt
   focal_point: ""
   preview_only: false
   filename: featured.jpg
