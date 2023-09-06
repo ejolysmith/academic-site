@@ -11,17 +11,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/ejolysmith
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
   - display:
       header: false
     link: https://twitter.com/smitheua
     icon_pack: fab
     icon: twitter
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 organizations:
   - name: University of Toronto
     url: https://www.utoronto.ca
