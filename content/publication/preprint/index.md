@@ -1,6 +1,5 @@
 ---
 publication_types:
-  - "3"
 authors:
   - admin
   - Mir Mikdad Talpur
