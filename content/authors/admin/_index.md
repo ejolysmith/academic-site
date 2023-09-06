@@ -20,7 +20,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/smitheua
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: University of Toronto
