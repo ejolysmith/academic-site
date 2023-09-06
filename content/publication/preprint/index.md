@@ -24,8 +24,8 @@ abstract: Characterizing and manipulating cellular behaviour requires a mechanis
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
- - Source Themes
- featured: false
+- Source Themes
+featured: false
 
 links:
 - name: Link
