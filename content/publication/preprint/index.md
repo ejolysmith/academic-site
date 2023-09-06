@@ -1,6 +1,12 @@
 ---
 title: "Exploiting fluctuations in gene expression to detect causal interactions between genes"
-authors: [Euan Joly-Smith]
+authors: 
+- admin
+- Mir Mikdad Talpur
+- Paige Allard
+- Fotini Papazotos
+- Laurent Potvin-Trottier
+- Andreas Hilfinger
 date: "2023-09-04"
 doi: ""
 
