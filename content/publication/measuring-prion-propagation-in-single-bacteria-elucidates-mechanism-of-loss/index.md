@@ -49,5 +49,5 @@ image:
 summary: "My contributions: Developed the stochastic model, generated simulation
   data, analyzed experimental data using the model, and helped write the
   manuscript. "
-date: 2023-09-06T21:01:13.400Z
+date: 2023-07-26T21:01:13.400Z
 ---
