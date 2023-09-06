@@ -4,7 +4,7 @@ bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://www.physics.utoronto.ca/members/joly-smith-euan/
   - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.ca/citations?user=tMzkFNsAAAAJ&hl=en
