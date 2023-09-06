@@ -40,8 +40,16 @@ abstract: Prions are self-propagating protein aggregates formed by specific
   challenges for prion propagation that are unique to prokaryotes and
   illustrates the conservation of fundamental characteristics of prion
   propagation.
+
+My contributions: Developed the stochastic model, generated simulation data, analyzed experimental data using the model, and helped write the manuscript.
+
 draft: false
 featured: false
+links:
+  - name: Link
+    url: https://www.biorxiv.org/content/10.1101/2023.01.11.523042v1
+url_pdf: https://www.biorxiv.org/content/10.1101/2023.01.11.523042v1.full.pdf
+
 image:
   filename: featured
   focal_point: Smart
@@ -50,4 +58,6 @@ summary: "My contributions: Developed the stochastic model, generated simulation
   data, analyzed experimental data using the model, and helped write the
   manuscript. "
 date: 2023-07-26T21:01:13.400Z
+share: false
+profile: false
 ---
