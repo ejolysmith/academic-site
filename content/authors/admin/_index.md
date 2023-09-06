@@ -6,7 +6,7 @@ social:
     icon_pack: fas
     link: https://www.physics.utoronto.ca/members/joly-smith-euan/
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.ca/citations?user=tMzkFNsAAAAJ&hl=en
   - icon: github
     icon_pack: fab
