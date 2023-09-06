@@ -27,7 +27,8 @@ abstract: Inferring functional relationships within complex networks from static
 tags: []
 projects: []
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.044406
+url_pdf: uploads/resume.pdf
 publication_types:
   - "2"
 image:
