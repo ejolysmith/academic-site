@@ -54,7 +54,7 @@ links:
   - name: Link
     url: https://www.biorxiv.org/content/10.1101/2023.01.11.523042v1
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 share: false
