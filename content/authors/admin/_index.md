@@ -1,6 +1,6 @@
 ---
 avatar_filename: img_0417.png
-bio: Research interests include
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
