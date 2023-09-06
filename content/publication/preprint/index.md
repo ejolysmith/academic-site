@@ -29,15 +29,15 @@ featured: false
 
 links:
 - name: Link
-  url: www.google.ca
-url_pdf: www.google.ca
+  url: www.biorxiv.org/content/10.1101/2023.09.01.555799v1
+url_pdf: www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
