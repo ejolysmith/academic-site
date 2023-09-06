@@ -33,8 +33,8 @@ links:
 url_pdf: uploads/pre_2021.pdf
 publication_types:
 image:
+  placement: 1
   caption: ""
-  width: 1000
   focal_point: ""
   preview_only: false
   filename: featured.jpg
