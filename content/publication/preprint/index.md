@@ -29,8 +29,8 @@ featured: false
 
 links:
 - name: Link
-  url: https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html
-url_pdf: https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html
+  url: www.google.ca
+url_pdf: www.google.ca
 url_code: ''
 url_dataset: ''
 url_poster: ''
