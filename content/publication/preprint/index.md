@@ -1,12 +1,12 @@
 ---
 title: "Exploiting fluctuations in gene expression to detect causal interactions between genes"
-authors:
+authors: Euan Joly-Smith, Mir Mikdad Talpur, Paige Allard, Fotini Papazotoz, Laurent Potvin-Trottier, and Andreas Hilfinger
 - admin
-date: "2023-05-04"
+date: "2023-09-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-04"
+publishDate: "2023-09-04"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -61,6 +61,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-TEST
 
