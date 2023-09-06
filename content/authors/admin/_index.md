@@ -13,7 +13,7 @@ social:
     link: https://github.com/ejolysmith
   - display:
       header: false
-    link: https://twitter.com/smitheua
+    link: https://twitter.com/ejolysmith
     icon_pack: fab
     icon: twitter
   - icon: cv
