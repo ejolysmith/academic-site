@@ -41,7 +41,7 @@ url_source: ""
 url_video: ""
 title: Exploiting fluctuations in gene expression to detect causal interactions
   between genes
-publication: bioRxiv
+publication: (bioRxiv)
 date: 2023-09-04
 url_slides: ""
 links:
