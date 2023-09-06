@@ -1,7 +1,6 @@
 ---
 title: "Exploiting fluctuations in gene expression to detect causal interactions between genes"
-authors: 
- - admin
+authors: [Euan Joly-Smith]
 date: "2023-09-04"
 doi: ""
 
