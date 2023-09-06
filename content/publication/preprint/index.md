@@ -29,15 +29,15 @@ featured: false
 
 links:
 - name: Link
-  url: [http://example.org](https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html)
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html)
-# url_code: ''
-# url_dataset: '#'
-# url_poster: '#'
+  url: https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html
+url_pdf: https://www.biorxiv.org/content/10.1101/2023.09.01.555799v1.full.pdf+html
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
