@@ -32,7 +32,6 @@ links:
     url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.044406
 url_pdf: uploads/pre_2021.pdf
 publication_types:
-  - "2"
 image:
   caption: ""
   focal_point: ""
@@ -51,4 +50,5 @@ publishDate: 2021-10-13T14:51:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
+share: false
 ---
