@@ -27,7 +27,7 @@ slides: ""
 url_pdf: uploads/pre_2021.pdf
 publication_types:
   - "0"
-summary: "For an accessible summary see my [blog post](https://uoftbiophysics.github.io/blog/2021/maturation-time/)."
+summary: "For a simplified summary, see my [blog post](https://uoftbiophysics.github.io/blog/2021/maturation-time/)."
 url_dataset: ""
 url_project: ""
 profile: false
@@ -57,3 +57,4 @@ url_code: ""
 doi: ""
 share: false
 ---
+For a simplified summary, see my [blog post](https://uoftbiophysics.github.io/blog/2021/maturation-time/).
