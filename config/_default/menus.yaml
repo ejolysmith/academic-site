@@ -7,10 +7,10 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: Publications & Preprints
     url: '#publications'
     weight: 20  
-  - name: Talks
+  - name: Presentations
     url: '#talks'
     weight: 30
   - name: Projects
