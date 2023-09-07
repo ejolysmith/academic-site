@@ -18,7 +18,7 @@ social:
     icon: twitter
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_2023.pdf
 organizations:
   - name: University of Toronto
     url: https://www.utoronto.ca
