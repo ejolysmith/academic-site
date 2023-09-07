@@ -28,9 +28,9 @@ sections:
       title: My title
       subtitle: My subtitle
       text: ***APS March Meeting 2023***,
-Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk) \
+Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk) 
 ***Biophysique Quebec 2nd Annual Symposium 2022***, 
-Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk) \
+Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk) 
 Canadian Association of Physicists congress, June ’22
 Inferring causality in gene regulation from static snapshots of gene expression variability. Contributed talk
 Annual Meeting of the Biophysical Society of Canada, May ’22
