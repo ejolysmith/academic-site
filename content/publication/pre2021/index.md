@@ -42,6 +42,8 @@ tags: []
 links:
   - name: Link
     url: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.044406
+  - name: Blog
+    url: https://uoftbiophysics.github.io/blog/2021/maturation-time/
 projects: []
 image:
   placement: 2
