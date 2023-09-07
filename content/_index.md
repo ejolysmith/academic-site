@@ -26,8 +26,7 @@ sections:
   - block: markdown
     content: 
       title: Talks
-      text: APS March Meeting, March 2023 \ Exploiting stochastic fluctuations in gene expression to infer interactions between genes. \
-    Biophysique Quebec 2nd Annual Symposium, October 2022 \  Exploiting stochastic fluctuations in gene expression to infer interactions between genes. \ Contributed talk.
+      text: APS March Meeting, March 2023 / Exploiting stochastic fluctuations in gene expression to infer interactions between genes. / Biophysique Quebec 2nd Annual Symposium, October 2022 /  Exploiting stochastic fluctuations in gene expression to infer interactions between genes. / Contributed talk.
 
 Contributed talk. 
     design:
