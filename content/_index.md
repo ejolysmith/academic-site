@@ -32,7 +32,7 @@ sections:
           - event
     design:
       columns: '2'
-      view: compact
+      view: list
   - block: collection
     id: projects
     content:
