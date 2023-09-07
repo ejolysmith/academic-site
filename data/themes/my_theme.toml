@@ -3,20 +3,20 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#1C2945"
+  primary = "#8D0801"
 
   # Menu
-  menu_primary = "#F7F7F7"
-  menu_text = "#1C2945"
-  menu_text_active = "#2D4B8C"
-  menu_title = "#F8954D"
+  menu_primary = "#F3F3F3"
+  menu_text = "#8D0801"
+  menu_text_active = "#8D0801"
+  menu_title = "#8D0801"
 
   # Home sections
   home_section_odd = "#FFFFFF"
-  home_section_even = "#F7F7F7"
+  home_section_even = "#F3F3F3"
   
-  link = "#3A61B6"
-  link_hover = "#4D7FEB"
+  link = "#8D0801"
+  link_hover = "#F56159"
 
 [dark]
   # Primary
