@@ -3,7 +3,7 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#F3F3F3"
+  primary = "#9bafd9"
 
   # Menu
   menu_primary = "FFFFFF" # "#F3F3F3"
@@ -13,7 +13,7 @@ name = "my_theme"
 
   # Home sections
   home_section_odd = "#FFFFFF"
-  home_section_even = "#FFFFFF"  # "#F3F3F3"
+  home_section_even = "#F3F3F3"
   
   link = "#8D0801"
   link_hover = "#F56159"
