@@ -13,7 +13,7 @@ authors:
   - Andreas Hilfinger
   - Ann Hochschild
   - Laurent Potvin-Trottier
-publication: Proceedings of the National Academy of Sciences (accepted, in press soon)
+publication: Proceedings of the National Academy of Sciences (accepted)
 publication_short: PNAS
 abstract: Prions are self-propagating protein aggregates formed by specific
   proteins that can adopt alternative folds. Prions were discovered as the cause
