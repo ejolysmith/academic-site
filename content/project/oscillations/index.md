@@ -11,7 +11,9 @@ title: Identifying oscillating genes by time-averaging signals with fluorescent
   maturation
 links: []
 image:
+  placement: 2
   caption: ""
   focal_point: ""
 url_code: ""
+profile: false
 ---
