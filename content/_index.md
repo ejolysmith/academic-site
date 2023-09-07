@@ -26,7 +26,7 @@ sections:
   - block: markdown
     content: 
       title: Talks
-      text: APS March Meeting, March 2023 Exploiting stochastic fluctuations in gene expression to infer interactions between genes. 
+      text: APS March Meeting, March 2023 Exploiting stochastic fluctuations in gene expression to infer interactions between genes.
 Contributed talk. 
     design:
       # See Page Builder docs for all section customization options.
