@@ -33,8 +33,6 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
     id: talks
-    content:
-      title: Talks
   - block: collection
     id: projects
     content:
