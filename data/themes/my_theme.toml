@@ -6,14 +6,14 @@ name = "my_theme"
   primary = "#1C2945"
 
   # Menu
-  menu_primary = "#EFF9FF"
+  menu_primary = "#F7F7F7"
   menu_text = "#1C2945"
   menu_text_active = "#2D4B8C"
   menu_title = "#F8954D"
 
   # Home sections
   home_section_odd = "#FFFFFF"
-  home_section_even = "#F5F5FF"
+  home_section_even = "#F7F7F7"
   
   link = "#2D4B8C"
   link_hover = "#486DBD"
