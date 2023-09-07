@@ -33,12 +33,12 @@ sections:
       columns: '2'
     id: talks
   - block: collection
-    id: Ongoing Projects
+    id: projects
     design:
       columns: '2'
       view: compact
     content:
-      title: Projects
+      title: Ongoing Projects
       filters:
         folders:
           - project
