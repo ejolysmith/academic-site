@@ -26,7 +26,7 @@ sections:
   - block: markdown
     content:
       title: My title
-      text: **APS March Meeting 2023**, Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk)  **Biophysique Quebec 2nd Annual Symposium 2022**, Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk) 
+      text: Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk)   (Contributed talk) 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
