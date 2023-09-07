@@ -34,7 +34,7 @@ email: Euan.joly.smith@utoronto.ca
 ---
 Graduated from McGill University in Honours Physics and Mathematics. Joined the U of T Physics Graduate Program in 2018. 
 
-An interdisciplinary researcher in biological physics and systems biology. A theorist turned experimentalist. 
+An interdisciplinary researcher in biological physics and systems biology. 
 
 Research interests include stochastic gene expression, cell decision making, synthetic biology, and information processing in living systems. \
 \
