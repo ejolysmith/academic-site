@@ -26,7 +26,7 @@ sections:
   - block: markdown
     content:
       title: My title
-      text: Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk)   (Contributed talk) 
+      text: Exploiting stochastic fluctuations in gene expression to infer interactions between genes.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
