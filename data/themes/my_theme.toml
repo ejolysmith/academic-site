@@ -13,7 +13,7 @@ name = "my_theme"
 
   # Home sections
   home_section_odd = "#FFFFFF"
-  home_section_even = "#EFF9FF"
+  home_section_even = "#F5F5FF"
   
   link = "#2D4B8C"
   link_hover = "#486DBD"
