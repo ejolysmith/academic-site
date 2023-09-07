@@ -20,7 +20,7 @@ abstract: Characterizing and manipulating cellular behaviour requires a
   allows us to rigorously interpret fluctuation data even when only a small part
   of a complex gene regulatory process can be observed. This relation can be
   exploited to detect causal interactions by synthetically engineering a passive
-  reporter of gene expression, akin to the established ``dual reporter assay".
+  reporter of gene expression, akin to the established "dual reporter assay".
   While the focus of our contribution is theoretical, we also present an
   experimental proof-of-principle to illustrate the approach. Our data from
   synthetic gene regulatory networks in E. coli are not unequivocal but suggest
