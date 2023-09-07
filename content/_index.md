@@ -26,7 +26,7 @@ sections:
   - block: markdown
     content:
       title: Talks
-      text:  [APS March Meeting 2023]([https://link-url-here.org](https://meetings.aps.org/Meeting/MAR23/Session/N01.10)), Exploiting stochastic fluctuations in gene expression to infer interactions between genes. (Contributed talk) 
+      text:  [APS March Meeting 2023]([https://link-url-here.org](https://meetings.aps.org/Meeting/MAR23/Session/N01.10)), Exploiting stochastic fluctuations in gene expression to infer interactions between genes, contributed talk. 
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
