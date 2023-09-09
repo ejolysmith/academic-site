@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Euan Joly-Smith. Powered by [Wowchemy Academic](https://github.com/wowchemy/starter-hugo-academic)' # This work is licensed under {license}'
+    notice: '© {year} Euan Joly-Smith. Powered by [Wowchemy Academic](https://github.com/wowchemy/starter-hugo-academic).' # This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
