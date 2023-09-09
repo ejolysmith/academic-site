@@ -39,7 +39,7 @@ My experimental skills include cloning synthetic gene circuits in bacteria, time
 
 My main contributions are generalized constraints that characterize entire classes of systems modelling biochemical reaction networks in cells.
 These constraints can be exploited with gene expression reporters to detect *causal* and *dynamic* properties of gene regulatory networks from population snapshots of gene expression variability.
-<br /> I then transitioned to the alluring world of experimental biology and engineered many variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit to turn theory into practice. 
+I then transitioned to the alluring world of experimental biology and engineered many variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit to turn theory into practice. 
 
 I am always excited to share my research in person or through zoom, and fortunate to have given many talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, Montreal, and Toronto.
  
