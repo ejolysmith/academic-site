@@ -43,4 +43,4 @@ Trained in cloning synthetic gene circuits in bacteria, time-lapse fluorescence 
 
 Always excited to share my research in person or through zoom. Fortunate to have given many talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, Montreal, and Toronto.
  
-A French-Canadian, I obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, and a MSc. in Physics from the University of Toronto in 2019. Currently in the final stage of the Physics PhD program at the University of Toronto. 
+Obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, and a MSc. in Physics from the University of Toronto in 2019. Currently in the final stage of the Physics PhD program at the University of Toronto. 
