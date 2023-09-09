@@ -41,6 +41,6 @@ My main contributions are generalized constraints that characterize entire class
 These constraints can be exploited with gene expression reporters to detect *causal* and *dynamic* properties of gene regulatory networks from population snapshots of gene expression variability.
 I then transitioned to the alluring world of experimental biology and engineered many variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit to turn theory into practice. 
 
-I am always excited to share my research in person or through zoom, and fortunate to have given many talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, Montreal, and Toronto.
+I am always excited to share my research in person or via zoom, and fortunate to have given talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, and Montréal.
  
 I obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, and a MSc. in Physics from the University of Toronto in 2019. Currently I am in the final stage of the Physics PhD program at the University of Toronto. 

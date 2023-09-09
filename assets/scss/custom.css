@@ -4,3 +4,8 @@
   margin: 0 auto;
 }
 
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 16px;
+  font-weight: bold;
+}
