@@ -24,3 +24,7 @@ main:
   - name: CV
     url: uploads/CV_2023.pdf
     weight: 50
+
+  - name: Contact
+    url: https://www.physics.utoronto.ca/members/joly-smith-euan/
+    weight: 60

@@ -34,8 +34,13 @@ email: Euan.joly.smith@utoronto.ca
 ---
 A theoretical physicist with a habit of doing experiments in biology. 
 
-Theory contributions include deriving fundamental constraints on entire classes of stochastic processes that model biochemical reaction networks in cells. This approach circumvents the major problem that biochemical networks are complex and sparsely characterized, making single models oversimplified or based on untested assumptions. My constraints on classes of dual reporter systems promise to detect causal and dynamic properties of gene regulatory networks from static gene expression data. 
+Mathematically trained in stochastic processes, information theory, and computational physics. 
+My main theory contributions are fundamental constraints on entire classes of systems that model biochemical reaction networks in cells.
+These constraints can be exploited with gene expression reporters to detect *causal* and *dynamic* properties of gene regulatory networks from population snapshots of gene expression variability.
 
-Performed extensive numerical simulations to put these theories to the test, and went one step further: transitioned to the alluring world of experimental biology. Trained in cloning synthetic gene circuits in bacteria, time-lapse fluorescence microscopy, using microfluidic devices, and applying machine learning algorithms for cell segmentation. By engineering a number of variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit, I demonstrated the utility of my theoretical constraints. 
+Transitioned to the alluring world of experimental biology.
+Trained in cloning synthetic gene circuits in bacteria, time-lapse fluorescence microscopy, using microfluidic devices, and applying machine learning algorithms for cell segmentation. By engineering many variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit, I put my theories to the test. 
 
-Obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, and a MSc. in Physics from the University of Toronto in 2019. Currently in the final stage of the Physics PhD program at the University of Toronto. 
+Always excited to share my research in person or through zoom. Fortunate to have given many talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, Montreal, and Toronto.
+ 
+A French-Canadian, I obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, and a MSc. in Physics from the University of Toronto in 2019. Currently in the final stage of the Physics PhD program at the University of Toronto. 
