@@ -35,11 +35,12 @@ email: Euan.joly.smith@utoronto.ca
 A theoretical physicist with a habit of doing experiments in biology. 
 
 Mathematically trained in stochastic processes, information theory, and computational physics. 
-My main theory contributions are fundamental constraints on entire classes of systems that model biochemical reaction networks in cells.
-These constraints can be exploited with gene expression reporters to detect *causal* and *dynamic* properties of gene regulatory networks from population snapshots of gene expression variability.
+Experimental skills include cloning synthetic gene circuits in bacteria, time-lapse fluorescence microscopy, using microfluidic devices, and applying machine learning algorithms for cell segmentation.
 
-Transitioned to the alluring world of experimental biology.
-Trained in cloning synthetic gene circuits in bacteria, time-lapse fluorescence microscopy, using microfluidic devices, and applying machine learning algorithms for cell segmentation. By engineering many variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit, I put my theories to the test. 
+My main contributions are fundamental constraints on entire classes of systems modelling biochemical reaction networks in cells.
+These constraints can be exploited with gene expression reporters to detect *causal* and *dynamic* properties of gene regulatory networks from population snapshots of gene expression variability.
+To put my theories to the test, I transitioned to the alluring world of experimental biology, 
+where I engineering many variants of the celebrated [Repressilator](https://www.nature.com/articles/35002125) gene circuit. 
 
 Always excited to share my research in person or through zoom. Fortunate to have given many talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, Montreal, and Toronto.
  
