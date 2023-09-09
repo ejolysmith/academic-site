@@ -34,7 +34,7 @@ email: Euan.joly.smith@utoronto.ca
 ---
 A theoretical physicist with a habit of doing experiments in biology. 
 
-With a strong mathematical background, I'm trained in stochastic processes, information theory, and computational modelling. 
+Having a strong mathematical background, I'm trained in stochastic processes, information theory, and computational modelling. 
 Experimental skills include cloning synthetic gene circuits in bacteria, time-lapse fluorescence microscopy, using microfluidic devices, and applying machine learning algorithms for cell segmentation.
 
 For my main contribution I derived fundamental constraints on entire classes of systems modelling biochemical reaction networks in cells.
