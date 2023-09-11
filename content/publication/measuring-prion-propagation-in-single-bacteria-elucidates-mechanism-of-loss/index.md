@@ -14,7 +14,7 @@ authors:
   - Ann Hochschild
   - Laurent Potvin-Trottier
 publication: Proceedings of the National Academy of Sciences (accepted)
-publication_short: PNAS
+publication_short: PNAS (accepted)
 abstract: Prions are self-propagating protein aggregates formed by specific
   proteins that can adopt alternative folds. Prions were discovered as the cause
   of the fatal transmissible spongiform encephalopathies in mammals, but prions
