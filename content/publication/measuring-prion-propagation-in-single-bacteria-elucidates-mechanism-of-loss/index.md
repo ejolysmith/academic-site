@@ -52,7 +52,7 @@ My contributions: Developed the stochastic model, generated simulation data,
   analyzed experimental data using the model, and helped write the manuscript.
 links:
   - name: Link
-    url: https://www.pnas.org/doi/epdf/10.1073/pnas.2221539120
+    url: https://www.pnas.org/doi/10.1073/pnas.2221539120
 image:
   filename: featured.jpg
   focal_point: Smart
