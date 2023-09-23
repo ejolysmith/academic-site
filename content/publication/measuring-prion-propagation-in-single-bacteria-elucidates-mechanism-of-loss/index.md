@@ -39,7 +39,7 @@ abstract: Prions are self-propagating protein aggregates formed by specific
   illustrates the conservation of fundamental characteristics of prion
   propagation.
 draft: false
-url_pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.222153912
+url_pdf: uploads/jager-et-al-2023.pdf
 publication_types:
   - "0"
 featured: false
