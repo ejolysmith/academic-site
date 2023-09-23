@@ -13,8 +13,8 @@ authors:
   - Andreas Hilfinger
   - Ann Hochschild
   - Laurent Potvin-Trottier
-publication: Proceedings of the National Academy of Sciences (accepted)
-publication_short: PNAS (accepted)
+publication: Proceedings of the National Academy of Sciences
+publication_short: PNAS
 abstract: Prions are self-propagating protein aggregates formed by specific
   proteins that can adopt alternative folds. Prions were discovered as the cause
   of the fatal transmissible spongiform encephalopathies in mammals, but prions
@@ -39,7 +39,7 @@ abstract: Prions are self-propagating protein aggregates formed by specific
   illustrates the conservation of fundamental characteristics of prion
   propagation.
 draft: false
-url_pdf: https://www.biorxiv.org/content/10.1101/2023.01.11.523042v1.full.pdf
+url_pdf: https://www.pnas.org/doi/epdf/10.1073/pnas.222153912
 publication_types:
   - "0"
 featured: false
@@ -52,7 +52,7 @@ My contributions: Developed the stochastic model, generated simulation data,
   analyzed experimental data using the model, and helped write the manuscript.
 links:
   - name: Link
-    url: https://www.biorxiv.org/content/10.1101/2023.01.11.523042v1
+    url: https://www.pnas.org/doi/epdf/10.1073/pnas.2221539120
 image:
   filename: featured.jpg
   focal_point: Smart
