@@ -20,6 +20,8 @@ social:
     icon_pack: ai
     link: uploads/CV_2023.pdf
 organizations:
+  - name: van Oudenaarden group
+    url: https://www.hubrecht.eu/research-groups/van-oudenaarden-group/
   - name: Hubrecht Institute 
     url: https://www.hubrecht.eu
 superuser: true
