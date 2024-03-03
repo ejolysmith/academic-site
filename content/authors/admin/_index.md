@@ -4,7 +4,7 @@ bio: ""
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:euan.joly.smith@utoronto.ca # https://www.physics.utoronto.ca/members/joly-smith-euan/
+    link: mailto:e.joly@hubrecht.eu # https://www.physics.utoronto.ca/members/joly-smith-euan/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.ca/citations?user=tMzkFNsAAAAJ&hl=en
@@ -20,17 +20,17 @@ social:
     icon_pack: ai
     link: uploads/CV_2023.pdf
 organizations:
-  - name: University of Toronto
-    url: https://www.utoronto.ca
+  - name: Hubrecht Institute 
+    url: https://www.hubrecht.eu
 superuser: true
 status:
   icon: ☕️
 last_name: Joly-Smith
-role: PhD Candidate
+role: Postdoctoral Researcher
 highlight_name: true
-title: Euan Joly-Smith
+title: Euan Joly-Smith, PhD
 first_name: Euan
-email: Euan.joly.smith@utoronto.ca
+email: e.joly@hubrecht.eu
 ---
 A theoretical physicist with a habit of doing experiments in biology. 
 
