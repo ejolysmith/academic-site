@@ -18,7 +18,7 @@ social:
     icon: twitter
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_2023.pdf
+    link: uploads/CV_2024.pdf
 organizations:
   - name: van Oudenaarden group
     url: https://www.hubrecht.eu/research-groups/van-oudenaarden-group/
@@ -45,4 +45,4 @@ I transitioned to the alluring world of experimental biology and engineered many
 
 I am always excited to share my research in person or via zoom, and fortunate to have given talks at conferences and groups located in Hawaii, Chicago, Las Vegas, Dresden, Manchester, and Montréal.
  
-I obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, and a MSc. in Physics from the University of Toronto in 2019. Currently I am in the final stage of the Physics PhD program at the University of Toronto. 
+I obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, a MSc. in Physics from the University of Toronto in 2019, and a PhD in Physics from the University of Toronto in 2024 under the supervision of Andreas Hilfinger. Currently I am a postdoc in the lab of Alexander van Oudenaarden. 
