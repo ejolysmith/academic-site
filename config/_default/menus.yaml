@@ -26,5 +26,5 @@ main:
     weight: 50
 
   - name: Contact
-    url: mailto:e.joly@hubrecht.eu
+    url: www.google.ca  #mailto:e.joly@hubrecht.eu
     weight: 60
