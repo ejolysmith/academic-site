@@ -30,7 +30,7 @@ status:
 last_name: Joly-Smith
 role: Postdoctoral Researcher
 highlight_name: true
-title: Euan Joly-Smith, PhD
+title: Euan Joly-Smith
 first_name: Euan
 email: e.joly@hubrecht.eu
 ---
