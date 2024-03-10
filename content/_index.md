@@ -42,7 +42,7 @@ sections:
       filters:
         folders:
           - project
-      - block: markdown
+  - block: markdown
     content: 
       title: Contact
       text: e.joly@hubrecht.eu
