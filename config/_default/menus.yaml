@@ -26,5 +26,5 @@ main:
     weight: 50
 
   - name: Contact
-    url: https://www.physics.utoronto.ca/members/joly-smith-euan/
+    url: mailto:e.joly@hubrecht.eu
     weight: 60
