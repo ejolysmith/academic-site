@@ -45,7 +45,7 @@ sections:
   - block: markdown
     content: 
       title: Contact
-      text: e.joly@hubrecht.eu
+      text: Email e.joly@hubrecht.eu
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
