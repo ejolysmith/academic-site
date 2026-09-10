@@ -32,6 +32,12 @@ url_slides: ""
 links:
   - name: Link
     url: https://www.biorxiv.org/content/10.64898/2026.08.29.747780v1
+image:
+  placement: 2
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: scissor_logo.png
 publishDate: 2026-08-31
 url_poster: ""
 url_code: ""
