@@ -12,23 +12,7 @@ authors:
   - Hans Clevers
   - Alexander van Oudenaarden
 doi: ""
-abstract: Protein synthesis is dynamically regulated to control cell growth, differentiation, and
-stress responses. Recent single-cell sequencing methods can map ribosome
-positions on individual transcripts, but cannot capture the global translational
-states that coordinate protein synthesis across the transcriptome. In contrast,
-methods that measure the global translational landscape, such as polysome profiling
-and cryogenic electron tomography, lack either single-cell resolution or throughput.
-Here we introduce SCISSOR (Single-Cell Inference of Structural States of Ribosomes),
-a strategy that infers global translation activity in individual cells from the differential
-protection of ribosomal RNA (rRNA) against nuclease digestion. By integrating these
-protection signatures with the structure of the ribosome, SCISSOR resolves multiple
-ribosomal states and quantifies their abundance across thousands of individual cells.
-Applying SCISSOR reveals systematic variation in global translation across the cell
-cycle in human cells, as well as during the differentiation of murine intestinal stem
-cells into distinct epithelial lineages. These findings uncover principles of global
-translational regulation that are invisible to transcriptomic or ribosome-profiling
-assays, establishing a framework for studying global translation control at single-cell
-resolution. 
+abstract: Protein synthesis is dynamically regulated to control cell growth, differentiation, and stress responses. Recent single-cell sequencing methods can map ribosome positions on individual transcripts, but cannot capture the global translational states that coordinate protein synthesis across the transcriptome. In contrast, methods that measure the global translational landscape, such as polysome profiling and cryogenic electron tomography, lack either single-cell resolution or throughput. Here we introduce SCISSOR (Single-Cell Inference of Structural States of Ribosomes), a strategy that infers global translation activity in individual cells from the differential protection of ribosomal RNA (rRNA) against nuclease digestion. By integrating these protection signatures with the structure of the ribosome, SCISSOR resolves multiple ribosomal states and quantifies their abundance across thousands of individual cells. Applying SCISSOR reveals systematic variation in global translation across the cell cycle in human cells, as well as during the differentiation of murine intestinal stem cells into distinct epithelial lineages. These findings uncover principles of global translational regulation that are invisible to transcriptomic or ribosome-profiling assays, establishing a framework for studying global translation control at single-cell resolution. 
 url_pdf: uploads/scissor_preprint.pdf
 image:
   caption: null
