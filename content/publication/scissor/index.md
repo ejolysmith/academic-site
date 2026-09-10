@@ -37,7 +37,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: scissor_logo.png
+  filename: scissor_logo_small.png
 publishDate: 2026-08-31
 url_poster: ""
 url_code: ""
