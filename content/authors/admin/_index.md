@@ -29,16 +29,15 @@ title: Euan Joly-Smith
 first_name: Euan
 email: e.joly@hubrecht.eu
 ---
-A theoretical physicist pursuing quantitative principles of biology through mathematics, experiments, and single-cell genomics.
+A theoretical physicist using single-cell and single-molecule genomics to uncover quantitative principles of biology.
 
-I am trained in many mathematical disciplines including stochastic processes, information theory, and computational modelling. 
-More recently, I have expanded my toolkit to single-cell and single-molecule sequencing, developing computational and mathematical approaches to extract quantitative information from large genomic datasets. 
-Along the way, I have also picked up experimental skills including cloning synthetic gene circuits in bacteria, time-lapse fluorescence microscopy, and microfluidics.
+A central theme of my research is that biological variability can be exploited as a source of information rather than treated simply as noise. I combine mathematical theory, computational modelling, and experimental biology to uncover hidden properties of biological systems.
+During my PhD, I developed general mathematical constraints on biochemical reaction networks that enable the inference of causal interactions and regulatory dynamics from static snapshots of gene expression variability. To put these ideas into practice, I engineered variants of the celebrated Repressilator gene circuit and studied their dynamics using single-cell fluorescence microscopy.
 
-A recurring idea in my research is that biological variability can be exploited as a source of information rather than treated simply as noise. During my PhD, I developed generalized mathematical constraints that characterize broad classes of biochemical reaction networks. These constraints can be combined with gene expression reporters to infer causal and dynamic properties of gene regulatory networks from population snapshots of naturally occurring gene expression variability. I then transitioned to the alluring world of experimental biology and engineered many variants of the celebrated Repressilator gene circuit to put these ideas into practice.
+I now bring this philosophy to single-cell and single-molecule genomics. In my postdoctoral work, I co-developed SCISSOR (Single-Cell Inference of Structural States Of Ribosomes), which exploits variation in rRNA protection patterns to infer ribosomal structural states in individual cells. In parallel, I develop physical models and computational approaches to investigate chromatin organization and its relationship to epigenetic regulation from single-cell and long-read sequencing data.
 
-I now bring the same philosophy to single-cell genomics. In my postdoctoral work, I develop quantitative approaches that exploit variation in sequencing data to uncover biological properties that are otherwise difficult to observe. In particular, I helped develop SCISSOR (Single-Cell Inference of Structural States Of Ribosomes), which uses cell-to-cell variation in rRNA protection patterns to infer the structural and functional states of ribosomes in individual cells. In parallel, I develop physical models and computational approaches for analysing single-cell and long-read Nanopore measurements of chromatin organization.
+I am currently a postdoctoral researcher in the group of Alexander van Oudenaarden at the Hubrecht Institute. I obtained my BSc in Honours Physics and Mathematics from McGill University (2017), and my MSc (2019) and PhD (2024) in Physics from the University of Toronto, under the supervision of Andreas Hilfinger.
 
-I am always excited to share my research in person or via Zoom, and have been fortunate to present my work at conferences and research groups across North America and Europe.
+I am always happy to discuss my research and welcome opportunities for scientific exchange and collaboration.
+<img width="468" height="347" alt="image" src="https://github.com/user-attachments/assets/fb7f21e4-5352-41a5-ba7f-bac806aa44c5" />
 
-I obtained a BSc. in [Honours Physics and Mathematics](https://www.mcgill.ca/study/2023-2024/faculties/science/undergraduate/programs/bachelor-science-bsc-honours-mathematics-and-physics) from McGill University in 2017, a MSc. in Physics from the University of Toronto in 2019, and a PhD in Physics from the University of Toronto in 2024 advised by Andreas Hilfinger. Currently I am a postdoc in the lab of Alexander van Oudenaarden. 
