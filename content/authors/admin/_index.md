@@ -39,5 +39,5 @@ I now bring this philosophy to single-cell and single-molecule genomics. In my p
 I am currently a postdoctoral researcher in the group of Alexander van Oudenaarden at the Hubrecht Institute. I obtained my BSc in Honours Physics and Mathematics from McGill University (2017), and my MSc (2019) and PhD (2024) in Physics from the University of Toronto, under the supervision of Andreas Hilfinger.
 
 I am always happy to discuss my research and welcome opportunities for scientific exchange and collaboration.
-<img width="468" height="347" alt="image" src="https://github.com/user-attachments/assets/fb7f21e4-5352-41a5-ba7f-bac806aa44c5" />
+
 
